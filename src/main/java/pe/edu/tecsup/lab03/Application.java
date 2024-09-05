@@ -1,4 +1,4 @@
 package pe.edu.tecsup.lab03;
-// LOROS
+//LOROS
 public class Application {
 }
